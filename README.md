@@ -7,5 +7,5 @@ This is a custom back-end api that provide a  GET request endpoint and return al
 
 # Hosted backend endpoint
 - Hosted on heroku
-link `https://album-photos-api.herokuapp.com/api/album-photos/6`
-this endpoint will return all photos that have `albumId=6`
+- Link `https://album-photos-api.herokuapp.com/api/album-photos/6`
+- This endpoint will return all photos that have `albumId=6`
