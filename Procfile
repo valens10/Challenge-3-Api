@@ -1,0 +1,1 @@
+web: gunicorn albumPhotosApi.wsgi
